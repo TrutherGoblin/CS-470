@@ -1,1 +1,3 @@
 # CS-470
+
+Full StackDevelopment ll has help me in becoming a better software developer and has also taught me how to use some of the tools that make full stack development and deployment even easier but this class has also helped with me problem solving and working with a team as sometimes it was needed to turn to other classmates to solve some of the problems that each of us were having, I have a better understanding about cloud services and how they are used and how easy they can make things while also saving money for the company and everyone involved, the correct choice between serverless and containers depends on how long you need those services as long term, would actually be cheaper to use local containers.
